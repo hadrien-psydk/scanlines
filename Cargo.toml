@@ -1,0 +1,7 @@
+[package]
+name = "scanlines"
+version = "0.1.0"
+authors = ["Hadrien Nilsson <github@psydk.org>"]
+
+[dependencies]
+image = "0.10.1"
